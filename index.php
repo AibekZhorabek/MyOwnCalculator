@@ -11,10 +11,10 @@
         <p>My own calculator</p>
         <input type="number" name="num1" placeholder="First number...">
         <select name="oper" >
-            <option value="add">Addition</option>
-            <option value="sub">Substration</option>
-            <option value="div">Division</option>
-            <option value="mul">Multiplace</option>
+            <option value="add">+</option>
+            <option value="sub">-</option>
+            <option value="div">/</option>
+            <option value="mul">*</option>
         </select>
         <input type="number" name="num2" placeholder="second number...">
         <button type="submit">Calculate</button>
